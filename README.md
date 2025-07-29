@@ -16,7 +16,7 @@ A Level 1 Conversational AI Assistant powered by Google's Gemini 1.5 Flash model
 
 ## 🚀 Live Demo
 
-[Visit the Live App](#) <!-- Add your deployment URL here -->
+[Visit the Live App](https://simple-ai-agent.streamlit.app/) <!-- Add your deployment URL here -->
 
 ## 🛠️ Installation
 
